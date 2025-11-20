@@ -24,8 +24,8 @@ header .container {
 }
 
 .logo-img {
-    height: 40px; /* Alto de la imagen */
-    width: auto;  /* El ancho se ajusta solo */
+    height: 40px; 
+    width: auto;  
     margin: 0;
 }
 
